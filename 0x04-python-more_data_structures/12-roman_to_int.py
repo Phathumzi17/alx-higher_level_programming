@@ -10,6 +10,6 @@ def roman_to_int(roman_string: str):
         if numbers[i] >= numbers[i+1]:
             rep += numbers[i]
         else:
-            rep -= numbers[i]
+            rep = numbers[i]
 
     return rep
