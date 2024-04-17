@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 '''Module for attributes_methods function.'''
 
-def attributes_methods(ob):
+def attributes_methods(obj):
     '''Lists attributes and methods of an object.
     Args:
         ob (object): The object to list.
@@ -9,4 +9,4 @@ def attributes_methods(ob):
     Returns:
         list: List of attributes and methods.
     '''
-    return dir(ob)
+    return dir(obj)
