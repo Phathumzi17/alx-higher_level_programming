@@ -4,7 +4,7 @@
 def attributes_methods(ob):
     '''Lists attributes and methods of an object.
     Args:
-        ob: The object to list.
+        ob (object): The object to list.
 
     Returns:
         list: List of attributes and methods.
