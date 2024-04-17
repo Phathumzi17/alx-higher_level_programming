@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-'''Module for `BaseGeometry` class.'''
+'''Module for BaseGeometry class.'''
+
 
 class BaseGeometry:
-    '''Represents the base geometry class.'''
+    '''A BaseGeometry class.'''
     pass
